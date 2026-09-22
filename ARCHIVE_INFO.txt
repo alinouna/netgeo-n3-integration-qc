@@ -1,0 +1,6 @@
+archive        : netgeo-integration.zip
+algorithm      : WinZip AES-256 (AE-2), ZIP deflate
+sha256(archive): 01e8302819c0ceae329d88a29c30425de1834b8a84bbd72ccccf44d157aea346
+files          : 6
+unpacked bytes : 47656
+password       : NOT stored here. Sent separately.
